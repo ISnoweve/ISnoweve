@@ -1,6 +1,8 @@
-## Hi there 👋
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISnoweve&show_icons=true&private=true&theme=dracula&include_all_commits=true&)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISnoweve&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ISnoweve/ISnoweve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
