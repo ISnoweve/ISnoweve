@@ -4,10 +4,11 @@
 ---
 #### 🎮 Game Engiine :
 - Unity
-- Twitch Streamer
 #### 💻 Programming : 
 - **C#**
 - **Little bit C++**
+#### Other : 
+- Twitch Streamer
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ISnoweve&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
