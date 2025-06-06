@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISnoweve&show_icons=true&count_private=true&theme=dracula&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ISnoweve&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
 💡 Skills Tree
 ---
