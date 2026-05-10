@@ -14,7 +14,6 @@
 
 🌐 LINKS
 ---
-<a href="https://www.twitch.tv/snoweve1" target="_blank"><img src="https://img.shields.io/badge/Twitch--blue?style=social&logo=Twitch"></a>
 <a href="https://x.com/NoneSnowEve" target="_blank"><img src="https://img.shields.io/badge/Twitter--blue?style=social&logo=X"></a>
 
 
